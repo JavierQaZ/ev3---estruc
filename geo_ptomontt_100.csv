@@ -1,101 +1,101 @@
-distance,lat,status,lng,owner,type,address_type,manager,address_number,address_name,region/id,region/abbreviation,region/name,commune/id,commune/name,materials/0,materials/1,materials/2,materials/3,materials/4,materials/5
-9.31118850713751,-41.45750600,open,-72.89900300,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Laguna de Huasco con Pasaje Lago Maihue,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-9.851498670315422,-41.47352290,open,-72.91176310,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Lago Villarrica con Merino Benitez,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-9.961339636829805,-41.45786620,open,-72.90754030,Municipalidad de Puerto Montt,pv,,Cosemar,,"Valle Volcanes, Avda. Marcelo Fourcade (Santa Isabel)",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.058451314443358,-41.46793600,open,-72.91277610,Municipalidad de Puerto Montt,pv,,Cosemar,,"Valle Volcanes, Volcan Michimavida (American School)",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.30795578215906,-41.46128400,open,-72.91346550,Municipalidad de Puerto Montt,pv,,Cosemar,,"Valle Volcanes, Avda.4ta. Terraza",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.342349957627318,-41.45658870,open,-72.91178500,Municipalidad de Puerto Montt,pv,,Cosemar,,"Valle Volcanes, Volcan Michimavida (ex Unimarc)",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.36311112408968,-41.46607910,open,-72.91593770,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Bremen,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.462448011803778,-41.45047870,open,-72.91003810,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Lago Cucao,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.523127280430563,-41.46515450,open,-72.91760650,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Llanquihue con Pedro Aguirre Cerda,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.566700525670198,-41.46267720,open,-72.91725510,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Galvarino Vera,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.569843402695636,-41.45530920,open,-72.91406340,Municipalidad de Puerto Montt,pv,,Cosemar,,"Volcan Lascar, Valle Volcanes",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.593337233442288,-41.46172470,open,-72.91722010,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Galvarino Vera,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.829433006211717,-41.46422190,open,-72.92108190,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Lautaro frente iglesia La Colina,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.856226163916753,-41.46092160,open,-72.92019310,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Artemio Mancilla,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.970621780361473,-41.46844900,open,-72.92414190,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Regimiento con Palena,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-10.98958979180905,-41.46297670,open,-72.92263100,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Pasaje Rebolledo,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-11.181528500994284,-41.46987370,open,-72.92710270,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Serrano Pasaje Libertad 1,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-11.413203511357704,-41.46129180,open,-72.92728700,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Dalcahue con Lin Lin,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-11.467497838069047,-41.45836920,open,-72.92682740,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Icalma con Los Canarios,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-12.015158653484168,-41.42242550,open,-72.90921860,Municipalidad de Puerto Montt,pv,,Cosemar,,"Avda. Los Colonos, La Vara",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-12.027631752596992,-41.42224260,open,-72.90921860,Municipalidad de Puerto Montt,pv,,Cosemar,,Los Fundadores con Avda. Los Colonos,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-12.77799018879536,-41.46860060,open,-72.94627170,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Balmaceda con Calle Alcalde,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-12.815093681459649,-41.45785660,open,-72.94347370,Municipalidad de Puerto Montt,pv,,Cosemar,,Septimo de Linea con Francisco Pizarro,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-13.441580109737625,-41.46920910,open,-72.95448900,Municipalidad de Puerto Montt,pv,,Cosemar,,22 de Mayo con Calle Uruguay,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-13.631417394895067,-41.46493150,open,-72.95577400,Municipalidad de Puerto Montt,pv,,Cosemar,,La Colina (esc. La Colina),10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-13.666598777078248,-41.47336420,open,-72.95801850,Municipalidad de Puerto Montt,pv,,Cosemar,,"Calle Los Maquis, Poblacion Ebensperger",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-13.86392990320225,-41.47044550,open,-72.95987580,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle San Diego con Calle Cochrane,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-14.071214608800306,-41.45337800,open,-72.95744500,Municipalidad de Puerto Montt,pv,,Cosemar,,Pasaje Maestranza Cernoch,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-14.125581776390884,-41.48055060,open,-72.96446080,Municipalidad de Puerto Montt,pv,,Cosemar,,"Sierra Nevada, Mirasol",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-14.221449820173856,-41.39887870,open,-72.91683990,Municipalidad de Puerto Montt,pv,,Cosemar,,"Avda. Los Alerces, Alerce",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-15.737355251292183,-41.47854000,open,-72.98367000,Municipalidad de Puerto Montt,pv,,Cosemar,,Malvina Lazo con Puerto Natales,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-15.890283349407113,-41.47680000,open,-72.98533000,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Maximiliano Uribe,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-17.248886166509223,-41.48565200,open,-73.00226600,Municipalidad de Puerto Montt,pv,,Cosemar,,"Calle Bosque Amarillo, Bosquemar",10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-24.364416530636614,-41.32162800,open,-72.98442000,Municipalidad de Puerto Varas,pl,,Municipalidad de Puerto Varas,,CALLE SANTA ROSA  S/N (POSTERIOR GIMNACIO FICFAL),10,ll,Los Lagos,252,Puerto Varas,glass,paper,plastic,,,
-30.08921576023892,-41.32531100,open,-73.08293600,Municipalidad de Puerto Varas,pl,,Municipalidad de Puerto Varas,,CALLE OTTO KLEIN DORNER,10,ll,Los Lagos,252,Puerto Varas,glass,paper,plastic,,,
-35.27825006182371,-41.80043520,open,-72.71713790,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,Sector Contao,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-38.976877134531854,-41.48439000,open,-72.32733400,Municipalidad de Puerto Varas,pl,,Municipalidad de Puerto Varas,,SECTOR CALETA ROLLIZO,10,ll,Los Lagos,252,Puerto Varas,glass,paper,plastic,,,
-41.69909521753877,-41.76496400,open,-73.13431720,Municipalidad de Calbuco,pv,,Municipalidad de Calbuco,S/N,O'higgins (caseta ESSAL),10,ll,Los Lagos,245,Calbuco,glass,plastic,metal,,,
-42.01930678581125,-41.75599220,open,-73.15240570,Municipalidad de Calbuco,pv,,Municipalidad de Calbuco,,Plaza Círculo Fraterno,10,ll,Los Lagos,245,Calbuco,glass,plastic,metal,,,
-42.336845590484415,-41.77316690,open,-73.13363350,Municipalidad de Calbuco,pv,,Municipalidad de Calbuco,151,Presidente Carlos ibañez del Campo (Escuela Balmaceda),10,ll,Los Lagos,245,Calbuco,glass,plastic,metal,,,
-42.72048807216675,-41.76190750,open,-73.15642550,Municipalidad de Calbuco,pv,,Municipalidad de Calbuco,493,Pedro Felix Oyarzún (costado del Liceo Hernandez Ortiz Pizarro) ,10,ll,Los Lagos,245,Calbuco,glass,plastic,metal,,,
-43.64798529648501,-41.78412610,open,-73.14088610,Municipalidad de Calbuco,pv,,Municipalidad de Calbuco,,Escuela Libertador Bernardo O´higgins Riquelme,10,ll,Los Lagos,245,Calbuco,glass,plastic,metal,,,
-43.679264240612895,-41.88113580,open,-72.81450540,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,Sector Aulen,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-45.99908245655468,-41.80034740,open,-73.15908850,Municipalidad de Calbuco,pv,,Municipalidad de Calbuco,,Parque Municipal Caicaén,10,ll,Los Lagos,245,Calbuco,glass,plastic,metal,,,
-46.31478264895013,-41.90338310,open,-72.84584490,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,Sector Tentelhue,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-46.49521195314703,-41.11687000,open,-73.05014000,Municipalidad de Frutillar,pv,,Municipalidad de Frutillar,S/N,Alicia Martinez-Centro Comunitario,10,ll,Los Lagos,248,Frutillar,glass,plastic,metal,,,
-48.383641564721025,-41.77411670,open,-73.23450930,Municipalidad de Calbuco,pv,,Municipalidad de Calbuco,,Playa Jardín San Antonio,10,ll,Los Lagos,245,Calbuco,glass,plastic,metal,,,
-48.476875416295826,-41.92273810,open,-72.84834730,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,Sector Rolecha,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-48.930591693277165,-41.92759640,open,-72.83552580,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,Sector Rolecha,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-59.339385421597306,-41.96288640,open,-72.46751280,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,"Carretera Austral, Hornopiren",10,ll,Los Lagos,272,Hualaihué,plastic,,,,,
-59.36483546876093,-41.96724470,open,-72.47839010,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,S/N,Rio Barcelo,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-59.43437501091827,-42.01070150,open,-72.64187610,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,Caleta el Manzano ,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-59.568526220131695,-41.96677290,open,-72.47163280,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,"Calle cordillera, Hornopiren",10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-59.97604088984152,-41.97086620,open,-72.47159870,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,S/N,Ingenieros Militares,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-60.34934360902332,-42.02537780,open,-72.68788140,Municipalidad de Hualaihue,pv,,Municipalidad de Hualaihue,,Sector Hualaihue Puerto,10,ll,Los Lagos,272,Hualaihué,glass,plastic,metal,,,
-60.73732962016273,-41.52746480,open,-72.06766880,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Constantino Kochifas,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-60.7611938015929,-41.52621990,open,-72.06727180,Municipalidad de Puerto Montt,pv,,Cosemar,,Calle Isla Calluhuapi,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-63.808832052366874,-41.15705300,open,-73.41891500,Municipalidad de Fresia,pv,,Municipalidad de Fresia,,San Teodoro frente Multicancha Villas Unidas,10,ll,Los Lagos,247,Fresia,glass,paper,plastic,metal,,
-64.29475898875386,-41.15356600,open,-73.42273900,Municipalidad de Fresia,pv,,Municipalidad de Fresia,,San Jose con Irarrazaval,10,ll,Los Lagos,247,Fresia,glass,paper,plastic,metal,,
-65.26489400311239,-41.21939120,open,-73.49006200,Municipalidad de Fresia,pv,,Municipalidad de Fresia,,"Parga, calle san Sebastian",10,ll,Los Lagos,247,Fresia,glass,paper,plastic,metal,,
-66.09473386813173,-41.47112350,open,-72.00216740,Municipalidad de Puerto Montt,pv,,Cosemar,,Archipielago Juan Fernandez con Capitan Avalos,10,ll,Los Lagos,244,Puerto Montt,plastic,,,,,
-68.13966868644074,-41.61598180,open,-73.59619710,Ekuwun,pv,,Municipalidad de Maullín,,Esquina Gaspar del río con Almeida,10,ll,Los Lagos,251,Maullín,plastic,,,,,
-68.19092880030298,-41.62306200,open,-73.59480290,Ekuwun,pv,,Municipalidad de Maullín,,Bernardo O'higgins N°641,10,ll,Los Lagos,251,Maullín,plastic,,,,,
-68.67640384675568,-41.61783220,open,-73.60227660,Ekuwun,pv,,Municipalidad de Maullín,,"Población Miramar, calle los Cipreses",10,ll,Los Lagos,251,Maullín,plastic,,,,,
-68.81296441313269,-41.62194660,open,-73.60278680,Ekuwun,pv,,Municipalidad de Maullín,,Población Entre Ríos,10,ll,Los Lagos,251,Maullín,plastic,,,,,
-70.19652093312007,-41.83252800,open,-73.50380000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Chacao viejo,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-71.52611903321099,-41.82979500,open,-73.52509900,Municipalidad de Ancud,pv,,Municipalidad de Ancud,225,Bellavista,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-71.65430650919403,-41.82919000,open,-73.52742000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Cecosf Chacao,10,ll,Los Lagos,254,Ancud,glass,plastic,metal,,,
-71.79900146671503,-41.03911030,open,-73.41195890,Municipalidad de Fresia,pv,,Municipalidad de Fresia,,"Tegualda, calle Las Americas ",10,ll,Los Lagos,247,Fresia,glass,paper,plastic,metal,,
-72.62609012029114,-41.89634900,open,-73.47850400,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector punta Chilen,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-73.90564007662378,-41.56399150,open,-73.67729190,Ekuwun,pv,,Municipalidad de Maullín,,"Vicente Cárcamo con Blanco Encalada, Quenuir",10,ll,Los Lagos,251,Maullín,plastic,,,,,
-74.37445804430922,-41.64150120,open,-73.66551560,Ekuwun,pv,,Municipalidad de Maullín,,"Plazoleta Amortajado, Amortajado",10,ll,Los Lagos,251,Maullín,plastic,,,,,
-74.688953124623,-41.88311000,open,-73.52316000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Wechulkan Manao,10,ll,Los Lagos,254,Ancud,glass,plastic,metal,,,
-74.73401098615399,-41.88401000,open,-73.52296010,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Escuela Manao,10,ll,Los Lagos,254,Ancud,paper,plastic,,,,
-74.7929049383795,-41.88410200,open,-73.52374800,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Camino costero Quemchi Km36,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-75.8658544528437,-41.90632000,open,-73.51770000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Escuela Coñimó,10,ll,Los Lagos,254,Ancud,paper,plastic,,,,
-75.88090196148886,-41.90632700,open,-73.51792200,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector Coñimo,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-78.62723322011014,-41.92491600,open,-73.54056600,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector huelden,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-78.62850961637876,-41.82646000,open,-73.62665000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Caulin Bajo,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-78.68049989897966,-41.82638000,open,-73.62742000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Posta de Caulin,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-80.82245294941077,-41.74437080,open,-73.70528120,Ekuwun,pv,,Municipalidad de Maullín,,"Serrano, plazoleta, Carelmapu",10,ll,Los Lagos,251,Maullín,plastic,,,,,
-80.9652123450281,-41.74613590,open,-73.70623880,Ekuwun,pv,,Municipalidad de Maullín,,"Bernardo Ohiggins 996, Carelmapu",10,ll,Los Lagos,251,Maullín,plastic,,,,,
-81.52312150237358,-41.96735600,open,-73.53921300,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector linao ,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-81.840667945465,-41.81937100,open,-73.67520200,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector Pugueñun,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-82.63680934709501,-42.06030000,open,-73.43190000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Aucho Playa,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-83.38388283608798,-41.94114600,open,-73.59625000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector Lecam,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-84.46305436255554,-41.88605600,open,-73.66201800,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Ruta 5 Sur km cruce El Quilar,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-84.5332373019443,-41.90848000,open,-73.64401000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,JJVV El Quilar,10,ll,Los Lagos,254,Ancud,plastic,,,,,
-84.68774856186826,-41.91466500,open,-73.64075000,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector El quilar,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-86.9697934472932,-42.10500000,open,-73.44100000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Plaza Huite,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-90.92977977059,-40.68355800,open,-72.60455500,Municipalidad de Puyehue,pv,,Municipalidad de Puyehue,,Filiberto Novoa ,10,ll,Los Lagos,266,Puyehue,glass,paper,metal,,,
-90.98127221107967,-41.90195700,open,-73.74089100,Municipalidad de Ancud,pv,,Municipalidad de Ancud,,Sector Cauipulli,10,ll,Los Lagos,254,Ancud,glass,paper,paperboard,plastic,metal,
-91.19992692197246,-42.13350000,open,-73.47510000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Calle Los Ulmos,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-91.22780006928821,-42.13540000,open,-73.47240000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Mirador,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-91.40118800873402,-42.13610000,open,-73.47460000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Población Ilusión y Esperanza,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-91.7037301548421,-42.14020000,open,-73.47350000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Población padre Hurtado,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-91.85781311911819,-42.14340000,open,-73.47100000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Costanera,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-91.93074624966894,-42.14400000,open,-73.47140000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Biblioteca,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
-92.01907268331041,-42.14420000,open,-73.47280000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Municipalidad Centro,10,ll,Los Lagos,261,Quemchi,glass,paper,paperboard,plastic,metal,power_bank
-92.07204049731533,-42.14440000,open,-73.47350000,Municipalidad de Quemchi,pv,,Municipalidad de Quemchi,,Plaza de Armas,10,ll,Los Lagos,261,Quemchi,glass,plastic,metal,,,
+WKT,InputID,TargetID,Distance
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,899003 -41,457506))""",PUERTO MONTT,PUERTO MONTT,9.3111885071375
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9117631 -41,4735229))""",PUERTO MONTT,PUERTO MONTT,9.8514986703154
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9075403 -41,4578662))""",PUERTO MONTT,PUERTO MONTT,9.9613396368298
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9127761 -41,467936))""",PUERTO MONTT,PUERTO MONTT,10.058451314443
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9134655 -41,461284))""",PUERTO MONTT,PUERTO MONTT,10.307955782159
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,911785 -41,4565887))""",PUERTO MONTT,PUERTO MONTT,10.342349957627
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9159377 -41,4660791))""",PUERTO MONTT,PUERTO MONTT,10.36311112409
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9100381 -41,4504787))""",PUERTO MONTT,PUERTO MONTT,10.462448011804
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9176065 -41,4651545))""",PUERTO MONTT,PUERTO MONTT,10.523127280431
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9172551 -41,4626772))""",PUERTO MONTT,PUERTO MONTT,10.56670052567
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9140634 -41,4553092))""",PUERTO MONTT,PUERTO MONTT,10.569843402696
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9172201 -41,4617247))""",PUERTO MONTT,PUERTO MONTT,10.593337233442
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9210819 -41,4642219))""",PUERTO MONTT,PUERTO MONTT,10.829433006212
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9201931 -41,4609216))""",PUERTO MONTT,PUERTO MONTT,10.856226163917
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9241419 -41,468449))""",PUERTO MONTT,PUERTO MONTT,10.970621780361
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,922631 -41,4629767))""",PUERTO MONTT,PUERTO MONTT,10.989589791809
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9271027 -41,4698737))""",PUERTO MONTT,PUERTO MONTT,11.181528500994
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,927287 -41,4612918))""",PUERTO MONTT,PUERTO MONTT,11.413203511358
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9268274 -41,4583692))""",PUERTO MONTT,PUERTO MONTT,11.467497838069
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9092186 -41,4224255))""",PUERTO MONTT,PUERTO MONTT,12.015158653484
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9092186 -41,4222426))""",PUERTO MONTT,PUERTO MONTT,12.027631752597
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9462717 -41,4686006))""",PUERTO MONTT,PUERTO MONTT,12.777990188795
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9434737 -41,4578566))""",PUERTO MONTT,PUERTO MONTT,12.81509368146
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,954489 -41,4692091))""",PUERTO MONTT,PUERTO MONTT,13.441580109738
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,955774 -41,4649315))""",PUERTO MONTT,PUERTO MONTT,13.631417394895
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9580185 -41,4733642))""",PUERTO MONTT,PUERTO MONTT,13.666598777078
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9598758 -41,4704455))""",PUERTO MONTT,PUERTO MONTT,13.863929903202
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,957445 -41,453378))""",PUERTO MONTT,PUERTO MONTT,14.0712146088
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9644608 -41,4805506))""",PUERTO MONTT,PUERTO MONTT,14.125581776391
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,9168399 -41,3988787))""",PUERTO MONTT,PUERTO MONTT,14.221449820174
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,98367 -41,47854))""",PUERTO MONTT,PUERTO MONTT,15.737355251292
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,98533 -41,4768))""",PUERTO MONTT,PUERTO MONTT,15.890283349407
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,002266 -41,485652))""",PUERTO MONTT,PUERTO MONTT,17.248886166509
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,98442 -41,321628))""",PUERTO MONTT,PUERTO VARAS,24.364416530637
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,082936 -41,325311))""",PUERTO MONTT,PUERTO VARAS,30.089215760239
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,7171379 -41,8004352))""",PUERTO MONTT,HUALANE,35.278250061824
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,327334 -41,48439))""",PUERTO MONTT,PUERTO VARAS,38.976877134532
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,1343172 -41,764964))""",PUERTO MONTT,CALBUCO,41.699095217539
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,1524057 -41,7559922))""",PUERTO MONTT,CALBUCO,42.019306785811
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,1336335 -41,7731669))""",PUERTO MONTT,CALBUCO,42.336845590484
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,1564255 -41,7619075))""",PUERTO MONTT,CALBUCO,42.720488072167
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,1408861 -41,7841261))""",PUERTO MONTT,CALBUCO,43.647985296485
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,8145054 -41,8811358))""",PUERTO MONTT,HUALANE,43.679264240613
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,1590885 -41,8003474))""",PUERTO MONTT,CALBUCO,45.999082456555
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,8458449 -41,9033831))""",PUERTO MONTT,HUALANE,46.31478264895
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,05014 -41,11687))""",PUERTO MONTT,FRUTILLAR,46.495211953147
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,2345093 -41,7741167))""",PUERTO MONTT,CALBUCO,48.383641564721
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,8483473 -41,9227381))""",PUERTO MONTT,HUALANE,48.476875416296
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,8355258 -41,9275964))""",PUERTO MONTT,HUALANE,48.930591693277
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,4675128 -41,9628864))""",PUERTO MONTT,HUALANE,59.339385421597
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,4783901 -41,9672447))""",PUERTO MONTT,HUALANE,59.364835468761
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,6418761 -42,0107015))""",PUERTO MONTT,HUALANE,59.434375010918
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,4716328 -41,9667729))""",PUERTO MONTT,HUALANE,59.568526220132
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,4715987 -41,9708662))""",PUERTO MONTT,HUALANE,59.976040889842
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,6878814 -42,0253778))""",PUERTO MONTT,HUALANE,60.349343609023
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,0676688 -41,5274648))""",PUERTO MONTT,PUERTO MONTT,60.737329620163
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,0672718 -41,5262199))""",PUERTO MONTT,PUERTO MONTT,60.761193801593
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,418915 -41,157053))""",PUERTO MONTT,FRESIA,63.808832052367
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,422739 -41,153566))""",PUERTO MONTT,FRESIA,64.294758988754
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,490062 -41,2193912))""",PUERTO MONTT,FRESIA,65.264894003112
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,0021674 -41,4711235))""",PUERTO MONTT,PUERTO MONTT,66.094733868132
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,5961971 -41,6159818))""",PUERTO MONTT,MAULLÍN,68.139668686441
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,5948029 -41,623062))""",PUERTO MONTT,MAULLÍN,68.190928800303
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,6022766 -41,6178322))""",PUERTO MONTT,MAULLÍN,68.676403846756
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,6027868 -41,6219466))""",PUERTO MONTT,MAULLÍN,68.812964413133
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,5038 -41,832528))""",PUERTO MONTT,ANCUD,70.19652093312
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,525099 -41,829795))""",PUERTO MONTT,ANCUD,71.526119033211
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,52742 -41,82919))""",PUERTO MONTT,ANCUD,71.654306509194
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4119589 -41,0391103))""",PUERTO MONTT,FRESIA,71.799001466715
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,478504 -41,896349))""",PUERTO MONTT,ANCUD,72.626090120291
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,6772919 -41,5639915))""",PUERTO MONTT,MAULLÍN,73.905640076624
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,6655156 -41,6415012))""",PUERTO MONTT,MAULLÍN,74.374458044309
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,52316 -41,88311))""",PUERTO MONTT,ANCUD,74.688953124623
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,5229601 -41,88401))""",PUERTO MONTT,ANCUD,74.734010986154
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,523748 -41,884102))""",PUERTO MONTT,ANCUD,74.792904938379
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,5177 -41,90632))""",PUERTO MONTT,ANCUD,75.865854452844
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,517922 -41,906327))""",PUERTO MONTT,ANCUD,75.880901961489
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,540566 -41,924916))""",PUERTO MONTT,ANCUD,78.62723322011
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,62665 -41,82646))""",PUERTO MONTT,ANCUD,78.628509616379
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,62742 -41,82638))""",PUERTO MONTT,ANCUD,78.68049989898
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,7052812 -41,7443708))""",PUERTO MONTT,MAULLÍN,80.822452949411
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,7062388 -41,7461359))""",PUERTO MONTT,MAULLÍN,80.965212345028
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,539213 -41,967356))""",PUERTO MONTT,ANCUD,81.523121502374
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,675202 -41,819371))""",PUERTO MONTT,ANCUD,81.840667945465
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4319 -42,0603))""",PUERTO MONTT,QUEMCHI,82.636809347095
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,59625 -41,941146))""",PUERTO MONTT,ANCUD,83.383882836088
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,662018 -41,886056))""",PUERTO MONTT,ANCUD,84.463054362556
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,64401 -41,90848))""",PUERTO MONTT,ANCUD,84.533237301944
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,64075 -41,914665))""",PUERTO MONTT,ANCUD,84.687748561868
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,441 -42,105))""",PUERTO MONTT,QUEMCHI,86.969793447293
+"""MULTIPOINT ((-72,795222 -41,488582),(-72,604555 -40,683558))""",PUERTO MONTT,PUYEHUE,90.92977977059
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,740891 -41,901957))""",PUERTO MONTT,ANCUD,90.98127221108
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4751 -42,1335))""",PUERTO MONTT,QUEMCHI,91.199926921972
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4724 -42,1354))""",PUERTO MONTT,QUEMCHI,91.227800069288
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4746 -42,1361))""",PUERTO MONTT,QUEMCHI,91.401188008734
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4735 -42,1402))""",PUERTO MONTT,QUEMCHI,91.703730154842
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,471 -42,1434))""",PUERTO MONTT,QUEMCHI,91.857813119118
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4714 -42,144))""",PUERTO MONTT,QUEMCHI,91.930746249669
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4728 -42,1442))""",PUERTO MONTT,QUEMCHI,92.01907268331
+"""MULTIPOINT ((-72,795222 -41,488582),(-73,4735 -42,1444))""",PUERTO MONTT,QUEMCHI,92.072040497315
